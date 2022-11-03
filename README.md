@@ -1,7 +1,6 @@
 # ROI
 MCA Mini Project
 
-there are multiple dependancies for this project
-required python libraries should be installed ahead of attempting to running the project
-I am authorizing whom ever wants to use this code to do so for education and other related purpose
-however I strongly forbid using my code without my approval and knowledge for monitization purposes
+There are multiple dependencies for this project. Required python libraries should be installed ahead of attempting to run the project. <br>
+I am authorizing whoever wants to use this code to do so for education and other related purposes. <br> 
+However I strongly forbid using my code without my approval and knowledge for monetization purposes.
