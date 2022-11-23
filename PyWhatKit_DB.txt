@@ -23,3 +23,18 @@ Time: 14:38
 Phone Number: +919809152945
 Message: Your Child Akhil is absent in class
 --------------------
+Date: 21/11/2022
+Time: 15:37
+Phone Number: +917736651964
+Message: Your Child Deepak is absent in class
+--------------------
+Date: 21/11/2022
+Time: 15:37
+Phone Number: +918921506603
+Message: Your Child Abin is absent in class
+--------------------
+Date: 21/11/2022
+Time: 15:37
+Phone Number: +917902549662
+Message: Your Child Febin is absent in class
+--------------------
